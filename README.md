@@ -6,7 +6,7 @@ This repo contains all my notes about the reads we will have in the 301 class
 
 Class name | Class link
 ------------ | -------------
-Class01 | [Link]()
+Class01 | [Link](https://obiorbitalstar.github.io/Reading-notes-301/Class01)
 Class02 | [Link]()
 Class03 | [Link]()
 Class04 | [Link]()
