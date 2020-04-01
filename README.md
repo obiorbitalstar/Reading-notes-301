@@ -9,7 +9,7 @@ Class name | Class link
 Class01 | [Link](https://obiorbitalstar.github.io/Reading-notes-301/Class01)
 Class02 | [Link](https://obiorbitalstar.github.io/Reading-notes-301/Class02)
 Class03 | [Link](https://obiorbitalstar.github.io/Reading-notes-301/Class03)
-Class04 | [Link]()
+Class04 | [Link](https://obiorbitalstar.github.io/Reading-notes-301/Class04)
 Class05 | [Link]()
 Class06 | [Link]()
 Class07 | [Link]()
